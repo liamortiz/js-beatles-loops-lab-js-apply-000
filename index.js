@@ -7,5 +7,5 @@ theBeatlesPlay = (musicians, instruments) => {
 }
 
 johnLennonFacts = (facts) => {
-  
+  while
 }
