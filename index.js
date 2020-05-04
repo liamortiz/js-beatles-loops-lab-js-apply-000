@@ -5,3 +5,7 @@ theBeatlesPlay = (musicians, instruments) => {
   }
   return arr
 }
+
+johnLennonFacts = (facts) => {
+  
+}
