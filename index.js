@@ -21,5 +21,6 @@ function iLoveTheBeatles(number) {
   let i = 0
   do {
     arr[i] = "I love the Beatles!"
+    i++
   } while (i < number)
 }
