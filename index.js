@@ -21,5 +21,5 @@ function iLoveTheBeatles(number) {
   let i = 0
   do {
     arr[i] = 
-  } while ()
+  } while (i < number)
 }
