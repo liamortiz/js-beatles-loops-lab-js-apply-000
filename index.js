@@ -1,4 +1,4 @@
 theBeatlesPlay = (musicians, instruments) => {
   let arr = []
-  for(i in )
+  for each 
 }
