@@ -7,5 +7,11 @@ theBeatlesPlay = (musicians, instruments) => {
 }
 
 johnLennonFacts = (facts) => {
-  while
+  let i = 0
+  let arr = facts
+  while (i < facts.length) {
+    i++
+    arr[i] += "!!!"
+  }
+  return arr
 }
