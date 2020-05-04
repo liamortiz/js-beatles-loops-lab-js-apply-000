@@ -20,6 +20,6 @@ function iLoveTheBeatles(number) {
   let arr = []
   let i = 0
   do {
-    arr[i] = 
+    arr[i] = "I love the Beatles!"
   } while (i < number)
 }
