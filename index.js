@@ -20,8 +20,8 @@ function iLoveTheBeatles(number) {
   let arr = []
   let i = 0
   do {
-    arr.push("I love the Beatles!")
     i++
+    arr.push("I love the Beatles!")
   } while (i < number - 15)
   return arr
 }
