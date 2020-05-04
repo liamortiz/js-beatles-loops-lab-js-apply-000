@@ -7,11 +7,11 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-  let arr = []
+  let arr = facts
   let i = 0
   while (i < facts.length) {
+    arr[i] = arr[i] + "!!!"
     i++
-    arr[i]
   }
   return arr
 }
