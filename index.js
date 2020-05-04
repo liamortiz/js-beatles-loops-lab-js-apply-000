@@ -1,3 +1,2 @@
 theBeatlesPlay = (musicians, instruments) => {
-  
 }
