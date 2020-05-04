@@ -6,7 +6,7 @@ theBeatlesPlay = (musicians, instruments) => {
   return arr
 }
 
-johnLennonFacts = (facts) => {
+function johnLennonFacts(facts) {
   let i = 0
   let arr = facts
   while (i < facts.length) {
