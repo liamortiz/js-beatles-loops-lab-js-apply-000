@@ -1,1 +1,3 @@
-// add solution here
+theBeatlesPlay = (musicians, instruments) => {
+  
+}
